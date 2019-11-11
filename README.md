@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi!
+
+Malderok here, I just started Software engineering and i hope to start contributing soon. :D
